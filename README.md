@@ -27,3 +27,8 @@ _um **texto** combinado_
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
 
+
+#### Imagem local
+
+![Logo do Comdinheiro](logo_topo.png)
+
