@@ -10,3 +10,12 @@ Checkout, tela do produto, etc.
 
 Melhoria 1, melhoria 2... melhoria n
 _um **texto** combinado_
+
+### Linguagens do projeto:
+
+* HTML
+* CSS
+* Javascript
+* PHP
+* MySQL
+
