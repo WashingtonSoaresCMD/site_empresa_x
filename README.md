@@ -32,8 +32,11 @@ _um **texto** combinado_
 
 ![Logo do Comdinheiro](https://www.python.org/static/img/python-logo@2x.png)
 
+[![Logo do comdinheiro](https://media-exp1.licdn.com/dms/image/C560BAQGzXSmg4YINKA/company-logo_200_200/0/1597800910576?e=2159024400&v=beta&t=K8hQUbcGx3rhnnyy4GLTANMQNLeYML8c3QQTNDouvR8)](https://www.comdinheiro.com.br/home3/)
+
 
 #### Links
 
 [Link para o Comdinheiro](https://www.comdinheiro.com.br/home3/)
+
 
