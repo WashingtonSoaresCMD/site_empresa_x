@@ -40,3 +40,11 @@ _um **texto** combinado_
 [Link para o Comdinheiro](https://www.comdinheiro.com.br/home3/)
 
 
+### Código da função soma
+
+``` javascript
+function soma(a,b){
+    return a+b;
+}
+```
+
