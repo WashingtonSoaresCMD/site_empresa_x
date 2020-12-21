@@ -1,5 +1,7 @@
-# site_empresa_x
-Este é o site de uma empresa X
+# E-commerce empresa X
 
+Vamos criar um e-commerce....
 
-#Teste
+## Funcionalidades:
+
+Checkout, tela do produto, etc.
