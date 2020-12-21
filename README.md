@@ -30,5 +30,5 @@ _um **texto** combinado_
 
 #### Imagem local
 
-![Logo do Comdinheiro](img/python-logo@2x.png)
+![Logo do Comdinheiro](https://www.python.org/static/img/python-logo@2x.png)
 
