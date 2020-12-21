@@ -30,5 +30,5 @@ _um **texto** combinado_
 
 #### Imagem local
 
-![Logo do Comdinheiro](logo_topo.png)
+![Logo do Comdinheiro](img/logo_topo.png)
 
